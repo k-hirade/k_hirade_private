@@ -1,1 +1,15 @@
+仮想環境に入る
+source ./work_ad/bin/activate
+deactivate
 
+mysqlの起動
+brew services start mysql
+
+ターミナルでmysql
+mysql -u root -p
+\q
+
+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
+
+ユーザー名 (leave blank to use 'hiradekeishi'): k-hirade
+メールアドレス: keisi.hirade.97@gmail.com
